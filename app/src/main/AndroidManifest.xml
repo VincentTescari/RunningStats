@@ -10,6 +10,29 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+        <activity android:name=".ActiviteAccueil"
+            android:icon=""
+            android:label="Running Stats">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ActiviteAjout"
+            android:label="Enregsitrement"/>
+
+        <activity android:name=".ActiviteParam"
+            android:label="Parametres"/>
+
+        <activity android:name=".ActiviteStats"
+            android:label="Statistiques"/>
+
+        <activity android:name=".ActiviteGraph"
+            android:label="Graphique"/>
+
+        <activity android:name=".ActiviteHistorique"
+            android:label="historique"/>
     </application>
 
 </manifest>
