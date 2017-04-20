@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_entry">Nouvelle entrée</string>
+    <string name="date_entry">Date : </string>
+    <string name="time_entry"> Heure : </string>
+    <string name="name_entry"> Nom : </string>
+    <string name="distance_entry"> Distance : </string>
+    <string name="time_entry">Temps : </string>
+    <string name="ranking_entry">Classement : </string>
+    <string name="save">Enregister</string>
+</resources>
