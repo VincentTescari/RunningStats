@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="menu_option"
+        android:icon="@android:drawable/ic_menu_more"
+        android:showAsAction="ifRoom|withText">
+        <menu>
+            <item
+                android:id="@+id/menu_enregistrer"
+                android:title="Ajouter entrée"
+                />
+            <item
+                android:id="@+id/menu_historique"
+                android:title="Historique"/>
+            <item
+                android:id="@+id/menu_statistiques"
+                android:title="Statistiques"
+                />
+            <item
+                android:id="@+id/menu_parametres"
+                android:title="Paramètres"
+                />
+        </menu>
+    </item>
+
+
+
+</menu>
