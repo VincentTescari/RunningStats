@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Running Stats</string>
+    <!-- Activité Accueil -->
+
+    <!-- Activité Ajout -->
+    <string name="ajout_title">Ajouter une course</string>
+    <string name="ajout_dist">Distance</string>
+
+    <!-- Activité Historique -->
 </resources>
